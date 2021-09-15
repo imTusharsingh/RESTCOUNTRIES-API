@@ -1,8 +1,8 @@
-#GITHUB link of the project:
+# GITHUB link of the project:
 
 https://imtusharsingh.github.io/RESTCOUNTRIES-API/
 
-#About the project:
+# About the project:
 
 This is a react-app to display the information about the countries in asia by consuming the following restapi link.
 
@@ -18,7 +18,7 @@ This website displays the following information about the countries:
 -LANGUAGE and
 -BORDERS
 
-#Screenshots:
+# Screenshots:
 
 
 
