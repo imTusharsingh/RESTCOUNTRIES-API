@@ -20,6 +20,9 @@ This website displays the following information about the countries:
 
 # Screenshots:
 
+<img width="953" alt="webpage 1" src="https://user-images.githubusercontent.com/90269544/133416024-8faeaa82-17d8-4aea-abbe-4d43604b693d.png">
+
+
 
 
 
