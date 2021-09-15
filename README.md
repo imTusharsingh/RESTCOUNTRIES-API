@@ -22,13 +22,10 @@ This website displays the following information about the countries:
 
 <img width="953" alt="webpage 1" src="https://user-images.githubusercontent.com/90269544/133416024-8faeaa82-17d8-4aea-abbe-4d43604b693d.png">
 
+<img width="960" alt="webpage 2" src="https://user-images.githubusercontent.com/90269544/133416146-c3e9d23e-dbcf-4c3c-9359-6658dc371a9e.png">
 
 
-
-
-
-
-
+<img width="960" alt="webpage 3" src="https://user-images.githubusercontent.com/90269544/133416181-c40241a8-ce43-476e-adc6-40974b22c2d8.png">
 
 
 # Getting Started with Create React App
