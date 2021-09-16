@@ -1,3 +1,33 @@
+# GITHUB link of the project:
+
+https://imtusharsingh.github.io/RESTCOUNTRIES-API/
+
+# About the project:
+
+This is a react-app to display the information about the countries in asia by consuming the following restapi link.
+
+https://restcountries.eu/rest/v2/region/asia?fields=name;capital;area;flag;region;subregion;population;borders;languages
+
+This website displays the following information about the countries:
+-NAME
+-COUNTRY
+-FLAG
+-REGION
+-SUBREGION
+-POPULATION
+-LANGUAGE and
+-BORDERS
+
+# Screenshots:
+
+<img width="953" alt="webpage 1" src="https://user-images.githubusercontent.com/90269544/133416024-8faeaa82-17d8-4aea-abbe-4d43604b693d.png">
+
+<img width="960" alt="webpage 2" src="https://user-images.githubusercontent.com/90269544/133416146-c3e9d23e-dbcf-4c3c-9359-6658dc371a9e.png">
+
+
+<img width="960" alt="webpage 3" src="https://user-images.githubusercontent.com/90269544/133416181-c40241a8-ce43-476e-adc6-40974b22c2d8.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
